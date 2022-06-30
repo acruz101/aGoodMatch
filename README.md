@@ -39,5 +39,5 @@ Second, I will discuss the results and accuracy performance of the LDA models fo
 
 Overall, neither the linear regression and LDA models perform well at predicting how an individual will rate six traits of a potential partner prior to meeting them in person: attractiveness, sincerity, intelligence, fun, ambition, and shared interests. This interpretation is based on OSR2 performance for the linear regression models and accuracy performance for the LDA models. These results may be partially attributed to the notion that the field of dating and how people rate others’ traits has an inherently great amount of unexplainable variation, in the sense that individuals may not have a realistic or consistent perception of themselves or what they want. Furthermore, given time constraints, these scores were unnormalized, and a score that may be low for one individual may be high for another (e.g. a pickier person might have a 6 be the high score, whereas a more generous scorer might have 6 as a low). These facets make it difficult, or perhaps even infeasible, to use such a model to predict these types of scores, especially when considering that the data itself may have a dubious relationship with the response variables.
 
-
+Dataset: http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/
 
