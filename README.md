@@ -9,7 +9,7 @@ With these ratings and the respective match results, I hope to be able to make s
 ## Data Processing
 + The data used is sourced from a speed dating dataset collected by Fisman and Iyengar at Columbia University
   + [Source]( http://www.stat.columbia.edu/~gelman/arm/examples/speed.dating/)
-  + [Documentation](https://perso.telecom-paristech.fr/eagan/class/igr204/data/SpeedDatingKey.pdf). 
+  + [Documentation](https://perso.telecom-paristech.fr/eagan/class/igr204/data/SpeedDatingKey.pdf)
 + For the purpose of this study, the data was relatively unusable in its raw form and required several steps of reformatting, filtering, and processing
 + The data cleaning involved the following:
   + Adding a  column to indicate a master’s degree using regex
